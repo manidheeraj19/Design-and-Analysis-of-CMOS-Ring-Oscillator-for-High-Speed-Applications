@@ -21,10 +21,7 @@ A ring oscillator is a simple yet effective oscillator circuit built using an od
 
 ## 📊 Theory
 - A **ring oscillator** consists of an odd number of inverters connected in series, with the output of the last inverter fed back to the input of the first.
-- Oscillation frequency is determined by the **number of stages (N)** and the **propagation delay (tp)** of each inverter:
-  \[
-  f = \frac{1}{2 \times N \times t_p}
-  \]
+- Oscillation frequency is determined by the **number of stages (N)** and the **propagation delay (tp)** of each inverter
 
 ---
 
