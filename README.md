@@ -26,7 +26,7 @@ A ring oscillator is a simple yet effective oscillator circuit built using an od
 ---
 
 ## 🧪 Simulation & Analysis
-- Designed and tested using **Cadence Virtuoso / Tanner EDA / ModelSim** (mention your tool).
+- Designed and tested using **Cadence Virtuoso 
 - Verified **oscillation frequency, delay, and power consumption**.
 - Performed **parametric analysis** to study the effect of transistor sizing and supply voltage.
 
